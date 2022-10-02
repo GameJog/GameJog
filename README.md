@@ -2,3 +2,4 @@
 - 👀 Sou programador de varias linguagens
 - 🌱 Atualmente tenho um bot de discord verificado
 - 📫 Estou sempre online no discord, pode me adicionar GameJog#1115
+- 🌐 https://discord.gg/BmMddkF7J5 https://discord.gg/YFz8PKDz7T 
