@@ -1,0 +1,4 @@
+- 👋 Olá o meu nome é GameJog
+- 👀 Sou programador de varias linguagens
+- 🌱 Atualmente tenho um bot de discord verificado
+- 📫 Estou sempre online no discord, pode me adicionar GameJog#1115
