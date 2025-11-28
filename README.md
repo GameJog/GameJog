@@ -1,7 +1,7 @@
-- 👋 Olá o meu nome é GameJog
-- 👀 Sou programador de varias linguagens
-- 🌱 Atualmente tenho um bot de discord verificado
-- 📫 Estou sempre online no discord, pode me chamar **@gamejog**
+- 👋 Olá, sou o GameJog.
+- 💻 Competências: Sou um programador de software com experiência em múltiplas linguagens de programação.
+- 🌱 Projeto de Destaque: Atualmente, sou o responsável por um bot de Discord verificado, um projeto em contínuo desenvolvimento.
+- 📞 Contacto: Estou sempre contactável via Discord. Por favor, envie uma mensagem para @gamejog.
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GameJog&show_icons=true&theme=dark) <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamw&layout=compact&theme=dark)-->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
